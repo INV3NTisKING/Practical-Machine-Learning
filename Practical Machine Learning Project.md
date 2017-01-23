@@ -20,7 +20,7 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 I have used what we have learned in Coursera's Data Science Course thus far. This will be my reasoning as to what models I chose to use. After choosing the models it was then just a matter of seeing which model had a better accuracy.
 
-**NOTE: Please see "Image" folder in my github for the graphs pertaining to the Project. I apologize for the lack of embedding and any inconvenience this may cause as there were some personal issues that took me away from this weeks project. Thank you**
+**NOTE: Please see "images" folder in my github for the graphs pertaining to the Project. I apologize for the lack of embedding and any inconvenience this may cause as there were some personal issues that took me away from this weeks project. Thank you**
 
 ##**LOADING DATA**
 
