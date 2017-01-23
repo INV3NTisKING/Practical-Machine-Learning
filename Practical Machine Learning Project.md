@@ -95,9 +95,9 @@ dim(test_set)
 
 ##**Prediction Model Building**
 
-We will now build and test three models; random forest, decision trees, and generalized boost. Which ever model proves most accurate we will use for the quiz predictions. 
+We will now build and test three models; random forest, decision trees, and generalized boost. Which ever model proves most accurate we will use for the quiz predictions. This will also prove our cross validation process as the models will be compared against each other coupled with graphs. (Please see "images" folder for graphs) 
 
-Lastly a confusion matrix is plotted at the end of each analysis to confirm our model.
+Lastly a confusion matrix is plotted at the end of each analysis to confirm our model. (Please see "images" folder for graphs)
 
 ```{r, echo=TRUE}
 
