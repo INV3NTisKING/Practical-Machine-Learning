@@ -200,7 +200,7 @@ plot(boost_model_confusion_matrix$table,
 Selecting a model to apply to the quiz. 
 
 
-After our testing the Random Forest model bested and will be applied to predict quiz.
+After our testing the Random Forest model bested and will be applied to predict quiz. As I expected we did get a 90% accuracy but on 2 model which I did not expect.
 
 
 ```{r, echo=TRUE}
