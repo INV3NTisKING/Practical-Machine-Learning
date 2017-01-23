@@ -38,7 +38,7 @@ Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. Qualitative Activ
 
 Read more: http://groupware.les.inf.puc-rio.br/har#ixzz4WZO1FiKL
 
-First, to run this analysis, we will use the following packages:
+First, to run this analysis, we will use the following packages: In here we will also create a validation split of 70/30.
 
 
 ```{r, echo=TRUE}
