@@ -18,7 +18,7 @@ This document contains the Practical Machine Learning Project. The goal of this 
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement - a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. More information is available from the website here: http://groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise Dataset).
 
-I have used what we have learned in Coursera's Data Science Course thus far. This will be my reasoning as to what models I chose to use. After choosing the models it was then just a matter of seeing which model had a better accuracy.
+I have used what we have learned in Coursera's Data Science Course thus far. This will be my reasoning as to what models I chose to use. After choosing the models it was then just a matter of seeing which model had a better accuracy. I expect to see at least a 90% accuracy for one of the 3 models I build.
 
 **NOTE: Please see "images" folder in my github for the graphs pertaining to the Project. I apologize for the lack of embedding and any inconvenience this may cause as there were some personal issues that took me away from this weeks project. Thank you**
 
